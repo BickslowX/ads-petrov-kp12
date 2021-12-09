@@ -1,0 +1,7 @@
+C:\Users\Ja\source\repos\AdsLab3\AdsLab3\obj\Debug\AdsLab3.csproj.AssemblyReference.cache
+C:\Users\Ja\source\repos\AdsLab3\AdsLab3\obj\Debug\AdsLab3.csproj.CoreCompileInputs.cache
+C:\Users\Ja\source\repos\AdsLab3\AdsLab3\bin\Debug\AdsLab3.exe.config
+C:\Users\Ja\source\repos\AdsLab3\AdsLab3\bin\Debug\AdsLab3.exe
+C:\Users\Ja\source\repos\AdsLab3\AdsLab3\bin\Debug\AdsLab3.pdb
+C:\Users\Ja\source\repos\AdsLab3\AdsLab3\obj\Debug\AdsLab3.exe
+C:\Users\Ja\source\repos\AdsLab3\AdsLab3\obj\Debug\AdsLab3.pdb
