@@ -1,0 +1,16 @@
+C:\Users\Ja\source\repos\ADS\ADS\bin\Debug\net5.0\ADS.exe
+C:\Users\Ja\source\repos\ADS\ADS\bin\Debug\net5.0\ADS.deps.json
+C:\Users\Ja\source\repos\ADS\ADS\bin\Debug\net5.0\ADS.runtimeconfig.json
+C:\Users\Ja\source\repos\ADS\ADS\bin\Debug\net5.0\ADS.runtimeconfig.dev.json
+C:\Users\Ja\source\repos\ADS\ADS\bin\Debug\net5.0\ADS.dll
+C:\Users\Ja\source\repos\ADS\ADS\bin\Debug\net5.0\ref\ADS.dll
+C:\Users\Ja\source\repos\ADS\ADS\bin\Debug\net5.0\ADS.pdb
+C:\Users\Ja\source\repos\ADS\ADS\obj\Debug\net5.0\ADS.csproj.AssemblyReference.cache
+C:\Users\Ja\source\repos\ADS\ADS\obj\Debug\net5.0\ADS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ja\source\repos\ADS\ADS\obj\Debug\net5.0\ADS.AssemblyInfoInputs.cache
+C:\Users\Ja\source\repos\ADS\ADS\obj\Debug\net5.0\ADS.AssemblyInfo.cs
+C:\Users\Ja\source\repos\ADS\ADS\obj\Debug\net5.0\ADS.csproj.CoreCompileInputs.cache
+C:\Users\Ja\source\repos\ADS\ADS\obj\Debug\net5.0\ADS.dll
+C:\Users\Ja\source\repos\ADS\ADS\obj\Debug\net5.0\ref\ADS.dll
+C:\Users\Ja\source\repos\ADS\ADS\obj\Debug\net5.0\ADS.pdb
+C:\Users\Ja\source\repos\ADS\ADS\obj\Debug\net5.0\ADS.genruntimeconfig.cache
