@@ -1,0 +1,16 @@
+C:\Users\leope\source\repos\ads_lab7\bin\Debug\ads_lab7.exe.config
+C:\Users\leope\source\repos\ads_lab7\bin\Debug\ads_lab7.exe
+C:\Users\leope\source\repos\ads_lab7\bin\Debug\ads_lab7.pdb
+C:\Users\leope\source\repos\ads_lab7\obj\Debug\ads_lab7.csproj.AssemblyReference.cache
+C:\Users\leope\source\repos\ads_lab7\obj\Debug\ads_lab7.csproj.SuggestedBindingRedirects.cache
+C:\Users\leope\source\repos\ads_lab7\obj\Debug\ads_lab7.csproj.CoreCompileInputs.cache
+C:\Users\leope\source\repos\ads_lab7\obj\Debug\ads_lab7.exe
+C:\Users\leope\source\repos\ads_lab7\obj\Debug\ads_lab7.pdb
+C:\Users\leope\AppData\Local\GitHubDesktop\app-2.9.6\ads-petrov-kp12\lab7\ads_lab7\bin\Debug\ads_lab7.exe.config
+C:\Users\leope\AppData\Local\GitHubDesktop\app-2.9.6\ads-petrov-kp12\lab7\ads_lab7\bin\Debug\ads_lab7.exe
+C:\Users\leope\AppData\Local\GitHubDesktop\app-2.9.6\ads-petrov-kp12\lab7\ads_lab7\bin\Debug\ads_lab7.pdb
+C:\Users\leope\AppData\Local\GitHubDesktop\app-2.9.6\ads-petrov-kp12\lab7\ads_lab7\obj\Debug\ads_lab7.csproj.AssemblyReference.cache
+C:\Users\leope\AppData\Local\GitHubDesktop\app-2.9.6\ads-petrov-kp12\lab7\ads_lab7\obj\Debug\ads_lab7.csproj.SuggestedBindingRedirects.cache
+C:\Users\leope\AppData\Local\GitHubDesktop\app-2.9.6\ads-petrov-kp12\lab7\ads_lab7\obj\Debug\ads_lab7.csproj.CoreCompileInputs.cache
+C:\Users\leope\AppData\Local\GitHubDesktop\app-2.9.6\ads-petrov-kp12\lab7\ads_lab7\obj\Debug\ads_lab7.exe
+C:\Users\leope\AppData\Local\GitHubDesktop\app-2.9.6\ads-petrov-kp12\lab7\ads_lab7\obj\Debug\ads_lab7.pdb
